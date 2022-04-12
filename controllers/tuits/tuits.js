@@ -146,7 +146,7 @@ export default [
       "comments": 1,
       "retuits": 2,
       "likes": 3,
-      "dislikes": 0,
+      "dislikes": 0
     }
   }
 ]
